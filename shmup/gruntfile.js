@@ -25,7 +25,7 @@ module.exports = function(grunt) {
     connect: {
       target:{
             options: {
-                port: 9001
+                port: 8080
             }
         }
     }
